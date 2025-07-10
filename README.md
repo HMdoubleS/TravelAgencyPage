@@ -1,1 +1,2 @@
-Travel Agency Page project on freeCodeCamp.com
+Travel Agency Page project on freeCodeCamp.com for the Certified Full Stack Developer Curriculum
+This project can be viewed at https://hmdoubles.github.io/TravelAgencyPage/
